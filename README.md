@@ -2,7 +2,7 @@
 
 🔭 I'm a full stack developer at Marcopolo S.A.
 
-## Languages
+<h2 align="center" style="color: #f8efd4;"> Languages </h2>
 
 <div style="display: inline_block" align="center"><br>
   <p align="center">
@@ -12,7 +12,7 @@
   </p>
 </div>
 
-## Frameworks and Tools
+<h2 align="center" style="color: #f8efd4;"> Frameworks and Tools </h2>
 
 <div style="display: inline_block" align="center"><br>
   <p align="center">
@@ -22,7 +22,7 @@
   </p>
 </div>
 
-## Databases
+<h2 align="center" style="color: #f8efd4;"> Databases </h2>
 
 <div style="display: inline_block" align="center"><br>
   <p align="center">
