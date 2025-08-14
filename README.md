@@ -17,7 +17,7 @@
 <div style="display: inline_block" align="center"><br>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,spring,react,docker,git,github,vscode,bitbucket&perline=14" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,spring,react,jquery,postman,docker,git,github,vscode,bitbucket&perline=14" />
     </a>
   </p>
 </div>
