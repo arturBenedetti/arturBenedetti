@@ -1,6 +1,6 @@
 💬 I'm Artur Trevizan Benedetti, a 22 years old Software Engineering student at the University of Caxias do Sul (UCS), currently in my fifth semester.
 
-🔭 I'm a full stack developer at Marcopolo S.A.
+🔭 I'm a full stack developer with 1 year of experience at Marcopolo S.A.
 
 <h2 align="center" style="color: #f8efd4;"> Languages </h2>
 
